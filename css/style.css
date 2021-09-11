@@ -11,11 +11,11 @@ h1 {
     font-weight: 800;
 }
 
-a.heading-link {
+.heading-link {
     text-decoration: none;
     color: #000000;
 }
 
-ul.nav-list {
+.nav-list {
     line-height: 2.5rem;
 }
