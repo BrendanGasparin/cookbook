@@ -1,2 +1,2 @@
 # odin-recipes
-Recipes website in pure HTML for The Odin Project Foundations module.
+A recipe website in pure HTML for The Odin Project Foundations module.
