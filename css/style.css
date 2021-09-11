@@ -15,3 +15,7 @@ a.heading-link {
     text-decoration: none;
     color: #000000;
 }
+
+ul.nav-list {
+    line-height: 2.5rem;
+}
