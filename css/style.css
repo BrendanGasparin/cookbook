@@ -9,6 +9,23 @@ body {
 h1 {
     text-align: center;
     font-weight: 800;
+    font-size: 32px;
+    border: 2px solid black;
+    margin: 0 auto;
+    padding: 12px 0;
+    max-width: 500px;
+    background-color: burlywood;
+}
+
+img {
+    border: 1px solid black;
+}
+
+main {
+    background-color: lightgoldenrodyellow;
+    padding: 12px;
+    border-left: 1px solid black;
+    border-top: 1px solid black;
 }
 
 .heading-link {
